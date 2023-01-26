@@ -99,11 +99,3 @@
 <h2 align="center">GitHub Activity Graph</h2>
 
 [![routinues's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=routinues&color=a855f7&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF)](https://github.com/routinues)
-
-###
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2s4xoy0o4w0oj2vb7w6kj45qx&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2s4xoy0o4w0oj2vb7w6kj45qx&redirect=true)
-
-</div>
